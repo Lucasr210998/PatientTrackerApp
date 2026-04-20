@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\patientapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\patientapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\patientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\patientapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\data\\patientapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\data\\patientapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\patientapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\patientapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patientapi\\patientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9347CE98-3B59-4678-A791-B5B8A04E3FAF}|PatientAPI\\PatientAPI.csproj|solutionrelative:patientapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatientAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatientAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T12:29:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientAPI",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.csproj",
+              "RelativeDocumentMoniker": "PatientAPI\\PatientAPI.csproj",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.csproj",
+              "RelativeToolTip": "PatientAPI\\PatientAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T12:29:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.csproj",
+              "RelativeDocumentMoniker": "PatientAPI\\PatientAPI.csproj",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.csproj",
+              "RelativeToolTip": "PatientAPI\\PatientAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T12:14:29.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PatientAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Program.cs",
+              "RelativeToolTip": "PatientAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:49:05.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PatientAPI\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PatientAPI\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:05:21.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\appsettings.json",
+              "RelativeToolTip": "PatientAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T10:50:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Data\\PatientAPIContext.cs",
+              "RelativeDocumentMoniker": "PatientAPI\\Data\\PatientAPIContext.cs",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Data\\PatientAPIContext.cs",
+              "RelativeToolTip": "PatientAPI\\Data\\PatientAPIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:45:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientAPI.http",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.http",
+              "RelativeDocumentMoniker": "PatientAPI\\PatientAPI.http",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\PatientAPI.http",
+              "RelativeToolTip": "PatientAPI\\PatientAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-20T10:13:40.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientAPI\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientAPI\\PatientAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "PatientAPI\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:03:38.277Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 63,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

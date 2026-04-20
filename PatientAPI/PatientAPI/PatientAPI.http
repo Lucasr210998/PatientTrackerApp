@@ -1,0 +1,43 @@
+@localHost = http://localhost:5152
+
+GET {{localHost}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{localHost}}/api/Patients
+Accept: aaplication/json
+
+###
+GET {{localHost}}/api/Patients/1
+Accept: application/json
+
+
+###
+POST {{localHost}}/api/Patients
+Content-Type: application/json
+{
+    "id": 5,
+    "firstName": "Patient",
+    "lastName": "Five",
+    "age": 67,
+    "bedNumber": 128,
+    "symptoms": "Fainting, nose bleeds, migraines"
+  }
+
+###
+
+PUT {{localHost}}/api/Patients/3
+Content-Type: application/json
+{
+    "id": 3,
+    "firstName": "Patient",
+    "lastName": "Twelve",
+    "age": 67,
+    "bedNumber": 123,
+    "symptoms": "Skin irritation, nausea, vision impairment"
+}
+
+###
+
+DELETE {{localHost}}/api/Patients/2

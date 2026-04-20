@@ -1,0 +1,33 @@
+﻿@model List<Patient>
+
+<h2>Patients</h2>
+
+<p>
+    <a class="btn btn-primary" href="/Patients/Create">Add New Patient</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Bed</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.FirstName @p.LastName</td>
+                <td>@p.Age</td>
+                <td>@p.BedNumber</td>
+                <td>
+                    <a class="btn btn-info btn-sm" href="/Patients/Details/@p.Id">Details</a>
+                    <a class="btn btn-warning btn-sm" href="/Patients/Edit/@p.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Patients/Delete/@p.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

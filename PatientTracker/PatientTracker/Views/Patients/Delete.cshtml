@@ -1,0 +1,22 @@
+﻿@model Patient
+
+<h2>Delete Patient</h2>
+
+<div class="alert alert-danger">
+    <strong>Are you sure you want to delete this patient?</strong>
+</div>
+
+<div class="card p-3 mb-3">
+    <h4>@Model.FirstName @Model.LastName</h4>
+
+    <p><strong>Age:</strong> @Model.Age</p>
+    <p><strong>Symptoms:</strong> @Model.Symptoms</p>
+    <p><strong>Bed Number:</strong> @Model.BedNumber</p>
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="/Patients" class="btn btn-secondary">Cancel</a>
+</form>

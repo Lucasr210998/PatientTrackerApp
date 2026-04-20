@@ -1,0 +1,22 @@
+﻿@model Patient
+
+<h2>Patient Details</h2>
+
+<div class="card p-3">
+    <h4>@Model.FirstName @Model.LastName</h4>
+
+    <dl class="row mt-3">
+        <dt class="col-sm-3">Age</dt>
+        <dd class="col-sm-9">@Model.Age</dd>
+
+        <dt class="col-sm-3">Symptoms</dt>
+        <dd class="col-sm-9">@Model.Symptoms</dd>
+
+        <dt class="col-sm-3">Bed Number</dt>
+        <dd class="col-sm-9">@Model.BedNumber</dd>
+    </dl>
+
+    <a href="/Patients/Edit/@Model.Id" class="btn btn-warning">Edit</a>
+    <a href="/Patients/Delete/@Model.Id" class="btn btn-danger">Delete</a>
+    <a href="/Patients" class="btn btn-secondary">Back</a>
+</div>
