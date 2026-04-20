@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas.rutherford\\documents\\projects\\patienttracker\\patienttracker\\services\\patientapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|c:\\users\\lucas\\documents\\github\\patienttrackerapp\\patienttracker\\patienttracker\\services\\patientapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C900ECF-F3E4-43AD-A928-C3F908B5E9FA}|PatientTracker\\PatientTracker.csproj|solutionrelative:patienttracker\\services\\patientapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,119 +54,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PatientTracker\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PatientTracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:53:48.856Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Delete.cshtml",
-              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:52:00.279Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\appsettings.json",
+              "RelativeToolTip": "PatientTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-20T14:22:39.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Edit.cshtml",
-              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PatientTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PatientTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:51:26.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T12:53:48.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Delete.cshtml",
+              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T12:52:00.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T12:51:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Create.cshtml",
               "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Create.cshtml",
               "RelativeToolTip": "PatientTracker\\Views\\Patients\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-20T12:51:05.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Details.cshtml",
-              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Details.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Details.cshtml",
-              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:50:37.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Index.cshtml",
-              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Views\\Patients\\Index.cshtml",
-              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-20T12:39:06.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientsController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Controllers\\PatientsController.cs",
-              "RelativeDocumentMoniker": "PatientTracker\\Controllers\\PatientsController.cs",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Controllers\\PatientsController.cs",
-              "RelativeToolTip": "PatientTracker\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:35:44.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PatientAPIService.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Services\\PatientAPIService.cs",
-              "RelativeDocumentMoniker": "PatientTracker\\Services\\PatientAPIService.cs",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Services\\PatientAPIService.cs",
-              "RelativeToolTip": "PatientTracker\\Services\\PatientAPIService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:32:18.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Program.cs",
               "RelativeDocumentMoniker": "PatientTracker\\Program.cs",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Program.cs",
               "RelativeToolTip": "PatientTracker\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,17 +132,68 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T12:50:37.657Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "PatientTracker\\Views\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Views\\Patients\\Index.cshtml",
+              "RelativeToolTip": "PatientTracker\\Views\\Patients\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-20T12:39:06.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PatientTracker\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PatientTracker\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:35:44.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Services\\PatientAPIService.cs",
+              "RelativeDocumentMoniker": "PatientTracker\\Services\\PatientAPIService.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Services\\PatientAPIService.cs",
+              "RelativeToolTip": "PatientTracker\\Services\\PatientAPIService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T12:32:18.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Models\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "PatientTracker\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\lucas.rutherford\\Documents\\Projects\\PatientTracker\\PatientTracker\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\lucas\\Documents\\GitHub\\PatientTrackerApp\\PatientTracker\\PatientTracker\\Models\\Patient.cs",
               "RelativeToolTip": "PatientTracker\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T12:12:07.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T12:12:07.289Z"
             }
           ]
         }
